@@ -1,4 +1,4 @@
-# Hi, I'm Annika
+# Hi, I'm Annika 🌊
 
 Product Manager with a focus on complex B2B SaaS environments, customer portals, internal operations tooling and end-to-end product workflows.
 
@@ -21,10 +21,10 @@ I use this GitHub profile as a product portfolio to document anonymized prototyp
 
 ## Featured Portfolio Repositories
 
-| Repository                                                                            | Focus                                                                                                        | Status             |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------ |
-| [Customer Portal Prototype](https://annika-mann.github.io/customer-portal-prototype/) | Customer-facing product mock-ups for portal features, checkout and self-service workflows.                   | Live               |
-| [Operations Hub Prototype](https://annika-mann.github.io/operations-hub-prototype/)   | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Live |
+| Repository | Focus | Status |
+|---|---|---|
+| [Customer Portal Prototype](https://annika-mann.github.io/customer-portal-prototype/) | Customer-facing product mock-ups for portal features, checkout and self-service workflows. | Live |
+| [Operations Hub Prototype](https://github.com/annika-mann/operations-hub-prototype) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Deployment in progress |
 
 ## How to Read These Repositories
 
