@@ -27,17 +27,26 @@ This GitHub profile serves as my **interactive Product Design & Discovery Portfo
 | Repository | Focus | Status |
 |---|---|---|
 | [Customer Portal Prototype](https://annika-mann.github.io/customer-portal-prototype/) | Customer-facing product mock-ups for portal features, checkout and self-service workflows. | Live |
-| [Operations Hub Prototype](https://github.com/annika-mann/operations-hub-prototype) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Deployment in progress |
+| [Operations Hub Prototype](https://github.com/annika-mann/operations-hub-prototype) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Repository available |
+
+## Portfolio Roadmap
+
+I maintain a structured portfolio backlog to prioritize upcoming prototypes, case studies and product vision work. The backlog helps me balance portfolio value, product complexity, current maturity and implementation effort.
+
+[Open Portfolio Backlog](PORTFOLIO-BACKLOG.md)
 
 ## 📖 How to Read These Repositories
 
-Each prototype repository follows a staged portfolio structure:
+The portfolio repositories use staged prototypes to show how product ideas evolve from structure and scope into more refined product concepts.
 
-* **Unbranded:** neutral SaaS prototype focused on structure, scope and handover logic.
-* **Design System:** refined version using a stronger visual system and improved interaction patterns.
-* **Product Vision:** strategic evolution showing how a feature or area could develop beyond the initial MVP.
+The exact stages depend on the product context:
 
-The prototypes are built as interactive HTML mock-ups and are accompanied by product framing such as goals, signals, metrics and development notes.
+| Repository | Stages | Why |
+|---|---|---|
+| Customer Portal Prototype | Unbranded → Design System → Product Vision | Customer-facing portal work benefits from separating neutral product logic, visual system refinement and longer-term product evolution. |
+| Operations Hub Prototype | Unbranded → MVP Reconstruction → Product Vision | Internal tooling benefits from showing initial product logic, realistic MVP constraints, connected systems, operational handoffs and future product evolution. |
+
+Across all repositories, the goal is not to present polished screens only. The prototypes are used to document product structure, workflow decisions, edge cases, implementation handover logic and measurable product outcomes.
 
 ## Notes
 
