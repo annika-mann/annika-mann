@@ -2,14 +2,14 @@
 
 This backlog tracks planned portfolio work across Customer Portal and Operations Hub prototypes.
 
-It helps prioritize work based on portfolio value, product complexity, current maturity and effort.
+It helps prioritize upcoming prototypes, case studies and product vision work based on portfolio value, product complexity, current maturity and implementation effort.
 
 ## Priority Model
 
 | Priority | Meaning |
 |---|---|
 | P0 | Portfolio foundation / needed to make the portfolio understandable |
-| P1 | High-credit portfolio work for applications |
+| P1 | High-value portfolio work with strong product storytelling |
 | P2 | Valuable addition after the core portfolio is stable |
 | P3 | Later product vision or optional extension |
 
@@ -37,7 +37,7 @@ It helps prioritize work based on portfolio value, product complexity, current m
 | P1 | Customer Portal | MFA Policies | Unbranded | Source mock-up exists | Unbrand and clean scope | High | Medium | Source Material Available |
 | P2 | Customer Portal | Bulk User Delete | Unbranded | Source mock-up exists | Update with actual built flow and unbrand | High | Medium | Source Material Available |
 | P2 | Operations Hub | Customer Operations | Unbranded | Multiple source mock-ups exist | Consolidate into one coherent prototype | High | High | Source Material Available |
-| P2 | Operations Hub | Customer Management | Branded 1 | Unbranded exists | Build branded version from screenshots | Medium | Medium | Source Material Available |
+| P2 | Operations Hub | Customer Management | Branded 1 | Unbranded exists | MVP Reconstruction planned based on existing product references | Medium | Medium | Source Material Available |
 | P2 | Operations Hub | Credential Management | Unbranded | Ideas exist | Define scope and first screen set | Medium-High | High | Idea |
 | P3 | Customer Portal | Virtual Networks | Product Vision | Fachchat exists | Continue after core portfolio is stable | Medium | High | In Progress |
 | P3 | Customer Portal | Product Dashboard | Unbranded | Idea from screenshots | Define MVP scope | Medium | High | Idea |
@@ -46,11 +46,11 @@ It helps prioritize work based on portfolio value, product complexity, current m
 
 ## Next 5 Work Items
 
-1. Commerce Checkout case study and GSM
-2. Customer Portal README cleanup
-3. API Management Branded 1 preparation
-4. User & Role Management Unbranded scoping
-5. MFA Policies Unbranded scoping
+1. Commerce Checkout Branded 1 preparation
+2. Operations Hub - Customer Management Branded 1 preparation
+3. Operations Hub - Customer Management Case Study and GSM
+4. API Management Branded 1 preparation
+5. User & Role Management Unbranded scoping
 
 ## Definition of Done Template
 
