@@ -29,15 +29,15 @@ It helps prioritize upcoming prototypes, case studies and product vision work ba
 
 | Priority | Area | Feature / Case | Stage | Current State | Next Step | Portfolio Value | Effort | Status |
 |---|---|---|---|---|---|---|---|---|
-| P0 | Portfolio | Portfolio README / structure | Foundation | Basic structure exists | Align README, stages and notes | High | Low | In Progress |
-| P1 | Customer Portal | Commerce Checkout | Unbranded | Updated prototype exists | Final review and case study | Very high | Medium | Prototype Ready |
-| P1 | Customer Portal | Commerce Checkout | Branded 1 | Concept exists | Build guest and logged-in start pages | Very high | High | Idea |
+| P0 | Portfolio | Portfolio README / structure | Foundation | Customer Portal and Operations Hub README structures are updated | Final link check across GitHub Pages | High | Low | Published
+| P1 | Customer Portal | Commerce Checkout | Unbranded | Prototype and case study are available | Final link check | Very high | Low | Published
+| P1 | Customer Portal | Commerce Checkout | Branded 1 | Prototype is in progress | Build guest and logged-in start pages | Very high | High | In Preparation |
 | P1 | Customer Portal | API Management | Branded 1 | Unbranded exists | Review feature scope and brand | High | Medium | Source Material Available |
 | P1 | Customer Portal | User & Role Management | Unbranded | Two source mock-ups exist | Merge flows and unbrand | Very high | Medium | Source Material Available |
 | P1 | Customer Portal | MFA Policies | Unbranded | Source mock-up exists | Unbrand and clean scope | High | Medium | Source Material Available |
 | P2 | Customer Portal | Bulk User Delete | Unbranded | Source mock-up exists | Update with actual built flow and unbrand | High | Medium | Source Material Available |
 | P2 | Operations Hub | Customer Operations | Unbranded | Multiple source mock-ups exist | Consolidate into one coherent prototype | High | High | Source Material Available |
-| P2 | Operations Hub | Customer Management | Branded 1 | Unbranded exists | MVP Reconstruction planned based on existing product references | Medium | Medium | Source Material Available |
+| P2 | Operations Hub | Customer Management | MVP Reconstruction | Unbranded, MVP Reconstruction and case study are available | Final link check | Medium | Low | Published
 | P2 | Operations Hub | Credential Management | Unbranded | Ideas exist | Define scope and first screen set | Medium-High | High | Idea |
 | P3 | Customer Portal | Virtual Networks | Product Vision | Fachchat exists | Continue after core portfolio is stable | Medium | High | In Progress |
 | P3 | Customer Portal | Product Dashboard | Unbranded | Idea from screenshots | Define MVP scope | Medium | High | Idea |
@@ -46,11 +46,11 @@ It helps prioritize upcoming prototypes, case studies and product vision work ba
 
 ## Next 5 Work Items
 
-1. Commerce Checkout Branded 1 preparation
-2. Operations Hub - Customer Management Branded 1 preparation
-3. Operations Hub - Customer Management Case Study and GSM
-4. API Management Branded 1 preparation
-5. User & Role Management Unbranded scoping
+1. Commerce Checkout Design System / MVP Reconstruction
+2. API Management Design System / MVP Reconstruction
+3. User & Role Management Unbranded scoping
+4. MFA Policies Unbranded scoping
+5. Operations Hub Customer Operations Unbranded scoping
 
 ## Definition of Done Template
 
