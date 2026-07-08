@@ -27,7 +27,7 @@ This GitHub profile serves as my **interactive Product Design & Discovery Portfo
 | Repository | Focus | Status |
 |---|---|---|
 | [Customer Portal Prototype](https://annika-mann.github.io/customer-portal-prototype/) | Customer-facing product mock-ups for portal features, checkout and self-service workflows. | Live |
-| [Operations Hub Prototype](https://github.com/annika-mann/operations-hub-prototype) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Repository available |
+| [Operations Hub Prototype](https://annika-mann.github.io/operations-hub-prototype/) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Live |
 
 ## Portfolio Roadmap
 
