@@ -1,64 +1,56 @@
-# Portfolio Backlog
+# Portfolio Roadmap
 
-This backlog tracks planned portfolio work across Customer Portal and Operations Hub prototypes.
+This roadmap provides a high-level view of the direction of my product and prototype portfolio. Detailed tasks, work-in-progress statuses and implementation decisions are tracked in GitHub Projects and repository Issues instead of being duplicated here.
 
-It helps prioritize upcoming prototypes, case studies and product vision work based on portfolio value, product complexity, current maturity and implementation effort.
+The portfolio explores product thinking, customer and employee experiences, platform capabilities and the relationships between products, processes and systems.
 
-## Priority Model
+## Portfolio Areas
 
-| Priority | Meaning |
-|---|---|
-| P0 | Portfolio foundation / needed to make the portfolio understandable |
-| P1 | High-value portfolio work with strong product storytelling |
-| P2 | Valuable addition after the core portfolio is stable |
-| P3 | Later product vision or optional extension |
+### Customer Portal
 
-## Status Model
+Customer-facing B2B self-service journeys, including commerce and checkout, API management, infrastructure-related services, and account administration.
 
-| Status | Meaning |
-|---|---|
-| Idea | Topic exists as an idea, but scope is not defined yet |
-| Source Material Available | Existing screenshots, notes or internal mock-ups are available |
-| In Progress | Prototype or case material is actively being worked on |
-| Prototype Ready | HTML prototype exists and is ready for review |
-| Case Study Needed | Prototype exists, but product explanation is still missing |
-| Portfolio Ready | Prototype and case framing are ready |
-| Published | Linked in the public portfolio |
+[Explore Customer Portal](https://github.com/annika-mann/customer-portal-prototype)
 
-## Current Backlog
+### Operations Hub
 
-| Priority | Area | Feature / Case | Stage | Current State | Next Step | Portfolio Value | Effort | Status |
-|---|---|---|---|---|---|---|---|---|
-| P0 | Portfolio | Portfolio README / structure | Foundation | Customer Portal and Operations Hub README structures are updated | Final link check across GitHub Pages | High | Low | Published
-| P1 | Customer Portal | Commerce Checkout | Unbranded | Prototype and case study are available | Final link check | Very high | Low | Published
-| P1 | Customer Portal | Commerce Checkout | Branded 1 | Prototype is in progress | Build guest and logged-in start pages | Very high | High | In Preparation |
-| P1 | Customer Portal | API Management | Branded 1 | Unbranded exists | Review feature scope and brand | High | Medium | Source Material Available |
-| P1 | Customer Portal | User & Role Management | Unbranded | Two source mock-ups exist | Merge flows and unbrand | Very high | Medium | Source Material Available |
-| P1 | Customer Portal | MFA Policies | Unbranded | Source mock-up exists | Unbrand and clean scope | High | Medium | Source Material Available |
-| P2 | Customer Portal | Bulk User Delete | Unbranded | Source mock-up exists | Update with actual built flow and unbrand | High | Medium | Source Material Available |
-| P2 | Operations Hub | Customer Operations | Unbranded | Multiple source mock-ups exist | Consolidate into one coherent prototype | High | High | Source Material Available |
-| P2 | Operations Hub | Customer Management | MVP Reconstruction | Unbranded, MVP Reconstruction and case study are available | Final link check | Medium | Low | Published
-| P2 | Operations Hub | Credential Management | Unbranded | Ideas exist | Define scope and first screen set | Medium-High | High | Idea |
-| P3 | Customer Portal | Virtual Networks | Product Vision | Fachchat exists | Continue after core portfolio is stable | Medium | High | In Progress |
-| P3 | Customer Portal | Product Dashboard | Unbranded | Idea from screenshots | Define MVP scope | Medium | High | Idea |
-| P3 | Customer Portal | Product Cancellation Flow | Unbranded | Idea from screenshots | Define flow and risk states | Medium | Medium | Idea |
-| P3 | Operations Hub | Maintenance Mode | Unbranded | Requirements exist | Build first prototype | Medium | Medium | Idea |
+Employee-facing workflows for customer and service operations, including administrative and credential-related capabilities.
 
-## Next 5 Work Items
+[Explore Operations Hub](https://github.com/annika-mann/operations-hub-prototype)
 
-1. Commerce Checkout Design System / MVP Reconstruction
-2. API Management Design System / MVP Reconstruction
-3. User & Role Management Unbranded scoping
-4. MFA Policies Unbranded scoping
-5. Operations Hub Customer Operations Unbranded scoping
+### Product Case Studies
 
-## Definition of Done Template
+Independent product explorations and reflections, including FinTech and product/architecture systems thinking.
 
-Each portfolio item should be considered ready when:
+[Explore Product Case Studies](https://github.com/annika-mann/product-case-studies)
 
-- Prototype file is uploaded and linked in the README
-- Navigation works
-- Data is anonymized
-- The feature has a short case study
-- Goals, signals and metrics are documented
-- The README link and status are up to date
+## Directions for Further Development
+
+- Evolve unbranded interaction concepts into more mature, consistent design-system prototypes where useful.
+- Improve realistic workflows, edge cases, system states and user guidance.
+- Make product decisions, trade-offs, and learning visible through focused case studies.
+- Explore connections and dependencies across customer-facing and internal operational experiences.
+- Continue iterating on standalone product cases and systems-thinking reflections.
+
+These are directions, not a committed delivery schedule. Individual scopes and priorities may change as the portfolio develops.
+
+## How Work Is Tracked
+
+- **GitHub Projects:** The operational Kanban board for planning and work status.
+- **Repository Issues:** Objectives, scope, requirements, acceptance criteria, open questions and relevant iteration notes.
+- **Repository README files and case studies:** Published artifacts and the context behind individual product explorations.
+
+This page intentionally does not repeat task lists, issue statuses or a ranked next-work-items list.
+
+## Quality Principles
+
+- A clear purpose and product context for each artifact.
+- Functional, testable interactions where applicable.
+- Anonymized and non-sensitive example data.
+- Consistent navigation and presentation across related prototypes.
+- Clear distinction between implemented functionality, proposals and conceptual explorations.
+- Maintained repository links and transparent documentation of meaningful decisions.
+
+## Notes
+
+This portfolio is an evolving collection of exploratory product work, not a production platform. Prototypes are illustrative and do not imply live system integrations or real customer analytics.
