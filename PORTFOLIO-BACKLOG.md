@@ -1,56 +1,44 @@
-# Portfolio Roadmap
+# Portfolio Backlog & Roadmap
 
-This roadmap provides a high-level view of the direction of my product and prototype portfolio. Detailed tasks, work-in-progress statuses and implementation decisions are tracked in GitHub Projects and repository Issues instead of being duplicated here.
+A concise overview of what I am focusing on next and where my product portfolio may evolve. This is a selection of priorities, not a duplicate of the operational Kanban board or a committed delivery schedule.
 
-The portfolio explores product thinking, customer and employee experiences, platform capabilities and the relationships between products, processes and systems.
+## Current Focus – Next 5
 
-## Portfolio Areas
+The following order reflects my current portfolio priorities. Detailed tasks and progress are tracked in the linked GitHub Issues.
 
-### Customer Portal
+| Priority | Focus | Next Direction | Issue |
+|---|---|---|---|
+| 1 | FinTech Product Case | Refine and complete the standalone HTML product case. | [Product Case FinTech](https://github.com/annika-mann/product-case-studies/issues/1) |
+| 2 | API Management | Extend the existing prototype functionally and integrate it into the Customer Portal Design System. | [API Management (Design System)](https://github.com/annika-mann/customer-portal-prototype/issues/3) |
+| 3 | Credential Management | Refine the credential management MVP and its operational workflows. | [Credential Management Area (MVP)](https://github.com/annika-mann/operations-hub-prototype/issues/1) |
+| 4 | Product & Architecture Reflection | Develop the systems-thinking narrative and visual architecture exploration as a standalone HTML case. | [Portal Arch Case](https://github.com/annika-mann/product-case-studies/issues/2) |
+| 5 | Kubernetes Dashboard | Explore and develop the unbranded dashboard prototype. | [Kubernetes Dashboard (Unbranded)](https://github.com/annika-mann/customer-portal-prototype/issues/2) |
 
-Customer-facing B2B self-service journeys, including commerce and checkout, API management, infrastructure-related services, and account administration.
+Completed work, including Patch Management, remains discoverable through the relevant repository and its artifacts rather than taking a slot in this upcoming-work list.
 
-[Explore Customer Portal](https://github.com/annika-mann/customer-portal-prototype)
+## Future Exploration
 
-### Operations Hub
+Potential directions beyond the current five priorities include:
 
-Employee-facing workflows for customer and service operations, including administrative and credential-related capabilities.
+- Further Customer Portal modules and design-system refinements.
+- Additional Operations Hub workflows and service-management concepts.
+- Further connections between customer experience, employee experience, and the systems that support both.
+- Product vision explorations and additional standalone product cases.
 
-[Explore Operations Hub](https://github.com/annika-mann/operations-hub-prototype)
+These are areas for exploration, not confirmed commitments.
 
-### Product Case Studies
+## Prioritisation Approach
 
-Independent product explorations and reflections, including FinTech and product/architecture systems thinking.
+I select portfolio work based on its ability to demonstrate product thinking and useful learning: customer or employee value, product and system complexity, opportunities to clarify interactions or architectural dependencies, storytelling potential, and realistic implementation effort.
 
-[Explore Product Case Studies](https://github.com/annika-mann/product-case-studies)
+The five-item focus list is updated when priorities meaningfully change; individual task status is not maintained here.
 
-## Directions for Further Development
+## Project Tracking
 
-- Evolve unbranded interaction concepts into more mature, consistent design-system prototypes where useful.
-- Improve realistic workflows, edge cases, system states and user guidance.
-- Make product decisions, trade-offs, and learning visible through focused case studies.
-- Explore connections and dependencies across customer-facing and internal operational experiences.
-- Continue iterating on standalone product cases and systems-thinking reflections.
+- **[Customer Portal](https://github.com/annika-mann/customer-portal-prototype)** — customer-facing B2B self-service and product capabilities.
+- **[Operations Hub](https://github.com/annika-mann/operations-hub-prototype)** — internal operational workflows and employee-facing tooling.
+- **[Product Case Studies](https://github.com/annika-mann/product-case-studies)** — independent product and systems-thinking cases.
 
-These are directions, not a committed delivery schedule. Individual scopes and priorities may change as the portfolio develops.
+Repository Issues contain scope, acceptance criteria, open questions and iteration notes. GitHub Projects is used for operational Kanban planning and progress. Repository READMEs and case studies present the published work and its context.
 
-## How Work Is Tracked
-
-- **GitHub Projects:** The operational Kanban board for planning and work status.
-- **Repository Issues:** Objectives, scope, requirements, acceptance criteria, open questions and relevant iteration notes.
-- **Repository README files and case studies:** Published artifacts and the context behind individual product explorations.
-
-This page intentionally does not repeat task lists, issue statuses or a ranked next-work-items list.
-
-## Quality Principles
-
-- A clear purpose and product context for each artifact.
-- Functional, testable interactions where applicable.
-- Anonymized and non-sensitive example data.
-- Consistent navigation and presentation across related prototypes.
-- Clear distinction between implemented functionality, proposals and conceptual explorations.
-- Maintained repository links and transparent documentation of meaningful decisions.
-
-## Notes
-
-This portfolio is an evolving collection of exploratory product work, not a production platform. Prototypes are illustrative and do not imply live system integrations or real customer analytics.
+All portfolio examples are intended to use anonymized, non-sensitive data. Conceptual explorations are distinguished from implemented functionality.
