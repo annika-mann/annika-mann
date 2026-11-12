@@ -12,6 +12,17 @@ This GitHub profile serves as my **interactive Product Design & Discovery Portfo
 * 🌱 Continuously expanding my knowledge in product discovery, platform architecture, systems thinking, and technical product management.
 * 💬 Happy to talk about product discovery, platform products, customer portals, operational tooling, stakeholder alignment, and prototype-driven product development.
 * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/annika-mann-pm/)
+* ✍️ Read my essays on [Substack](https://annikamann.substack.com/)
+
+## 🧭 My Product Principles 
+
+These repositories reflect how I approach product development:
+
+* Build shared understanding before building software.
+* Prototype to learn, not to convince.
+* Understand people before optimizing solutions.
+* Design systems, not isolated features.
+* Better decisions create better products.
 
 ## Portfolio Focus
 
@@ -28,6 +39,7 @@ This GitHub profile serves as my **interactive Product Design & Discovery Portfo
 |---|---|---|
 | [Customer Portal Prototype](https://annika-mann.github.io/customer-portal-prototype/) | Customer-facing product mock-ups for portal features, checkout and self-service workflows. | Live |
 | [Operations Hub Prototype](https://annika-mann.github.io/operations-hub-prototype/) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Live |
+| [Product Case Studies](https://github.com/annika-mann/product-case-studies#readme) | Independent product cases exploring customer journeys, product opportunities and systems thinking. | Ongoing |
 
 ## Portfolio Roadmap
 
@@ -45,6 +57,7 @@ The exact stages depend on the product context:
 |---|---|---|
 | Customer Portal Prototype | Unbranded → Design System → Product Vision | Customer-facing portal work benefits from separating neutral product logic, visual system refinement and longer-term product evolution. |
 | Operations Hub Prototype | Unbranded → MVP Reconstruction → Product Vision | Internal tooling benefits from showing initial product logic, realistic MVP constraints, connected systems, operational handoffs and future product evolution. |
+| Product Case Studies | Exploration → Analysis → Interactive Case | Standalone cases bring together context, observations, decisions and product ideas in one interactive experience. |
 
 Across all repositories, the goal is not to present polished screens only. The prototypes are used to document product structure, workflow decisions, edge cases, implementation handover logic and measurable product outcomes.
 
@@ -52,12 +65,6 @@ Across all repositories, the goal is not to present polished screens only. The p
 
 All data is anonymized and fictional. The prototypes are portfolio artifacts and do not contain production data, proprietary customer information or real internal system access.
 
-## 🧭 My Product Principles 
+## ✍️ Writing on Substack
 
-These repositories reflect how I approach product development:
-
-* Build shared understanding before building software.
-* Prototype to learn, not to convince.
-* Understand people before optimizing solutions.
-* Design systems, not isolated features.
-* Better decisions create better products.
+Alongside my product work, I write about learning, building, sharing and reflecting on ideas and experiences. You can find these essays on [Substack](https://annikamann.substack.com/).
