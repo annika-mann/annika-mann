@@ -12,7 +12,7 @@ This GitHub profile serves as my **interactive Product Design & Discovery Portfo
 * 🌱 Continuously expanding my knowledge in product discovery, platform architecture, systems thinking, and technical product management.
 * 💬 Happy to talk about product discovery, platform products, customer portals, operational tooling, stakeholder alignment, and prototype-driven product development.
 * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/annika-mann-pm/)
-* 🖋 Read my essays on [Substack](https://annikamann.substack.com/)
+* 📔 Read my essays on [Substack](https://annikamann.substack.com/)
 
 ## 🧭 My Product Principles 
 
@@ -65,6 +65,6 @@ Across all repositories, the goal is not to present polished screens only. The p
 
 All data is anonymized and fictional. The prototypes are portfolio artifacts and do not contain production data, proprietary customer information or real internal system access.
 
-## ✍️ Writing on Substack
+## 🖋 Writing on Substack
 
 Alongside my product work, I write about learning, building, sharing and reflecting on ideas and experiences. You can find these essays on [Substack](https://annikamann.substack.com/).
