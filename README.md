@@ -12,7 +12,7 @@ This GitHub profile serves as my **interactive Product Design & Discovery Portfo
 * 🌱 Continuously expanding my knowledge in product discovery, platform architecture, systems thinking, and technical product management.
 * 💬 Happy to talk about product discovery, platform products, customer portals, operational tooling, stakeholder alignment, and prototype-driven product development.
 * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/annika-mann-pm/)
-* ✍️ Read my essays on [Substack](https://annikamann.substack.com/)
+* 🖋 Read my essays on [Substack](https://annikamann.substack.com/)
 
 ## 🧭 My Product Principles 
 
@@ -39,7 +39,7 @@ These repositories reflect how I approach product development:
 |---|---|---|
 | [Customer Portal Prototype](https://annika-mann.github.io/customer-portal-prototype/) | Customer-facing product mock-ups for portal features, checkout and self-service workflows. | Live |
 | [Operations Hub Prototype](https://annika-mann.github.io/operations-hub-prototype/) | Internal tooling concepts for customer operations, support workflows and administrative customer management. | Live |
-| [Product Case Studies](https://github.com/annika-mann/product-case-studies#readme) | Independent product cases exploring customer journeys, product opportunities and systems thinking. | Ongoing |
+| [Product Case Studies](https://annika-mann.github.io/product-case-studies/) | Independent product cases exploring customer journeys, product opportunities and systems thinking. | Ongoing |
 
 ## Portfolio Roadmap
 
